@@ -66,3 +66,12 @@ h6 {
 #__next {
     isolation: isolate;
 }
+
+:root {
+    --cc-violet: hsl(257, 40%, 49%);
+    --cc-magenta: hsl(300, 69%, 71%);
+    --ff-open-sans: "Open Sans";
+    --ff-poppins: "Poppins";
+    --fw-regular: 400;
+    --fw-semi-bold: 600;
+}
